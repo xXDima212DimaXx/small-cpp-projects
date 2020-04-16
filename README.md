@@ -1,2 +1,2 @@
-# small-cpp-projects
+# Small C++ projects
 Small C++ projects
